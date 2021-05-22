@@ -1,5 +1,4 @@
-# HW7-fixed-
-This repo contains the final graded Homework 7 assignment that was submitted for CS2235 Data Structures and Algorithms (In Java)
+# HW7-Factory-
 
 1. In manufacturing, most factories operate as a queue using the FIFO 
 approach. Orders are processed as they are received on a first come first 
